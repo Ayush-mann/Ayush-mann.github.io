@@ -92,7 +92,7 @@ ul{
     }
     .box{
         border: 2px solid black;
-        font-size: 10vh;
+        font-size: 7vh;
         cursor: pointer;
         display: flex;
         justify-content: center;
